@@ -1,0 +1,152 @@
+2025-09-27 19:43:26,865 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:43:27,799 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:43:27,811 - INFO - Successfully parsed question.
+2025-09-27 19:43:27,811 - INFO - Generated a valid MCQ question.
+2025-09-27 19:43:27,811 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:43:28,615 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:43:28,617 - INFO - Successfully parsed question.
+2025-09-27 19:43:28,617 - INFO - Generated a valid MCQ question.
+2025-09-27 19:43:28,617 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:43:29,047 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:43:29,049 - INFO - Successfully parsed question.
+2025-09-27 19:43:29,050 - INFO - Generated a valid MCQ question.
+2025-09-27 19:43:56,524 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:43:57,187 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:43:57,189 - INFO - Successfully parsed question.
+2025-09-27 19:43:57,189 - INFO - Generated a valid MCQ question.
+2025-09-27 19:43:57,189 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:43:57,801 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:43:57,803 - INFO - Successfully parsed question.
+2025-09-27 19:43:57,804 - INFO - Generated a valid MCQ question.
+2025-09-27 19:43:57,804 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:43:58,311 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:43:58,313 - INFO - Successfully parsed question.
+2025-09-27 19:43:58,313 - INFO - Generated a valid MCQ question.
+2025-09-27 19:45:52,309 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:45:52,901 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:45:52,902 - INFO - Successfully parsed question.
+2025-09-27 19:45:52,903 - INFO - Generated a valid MCQ question.
+2025-09-27 19:45:52,903 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:45:53,411 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:45:53,413 - INFO - Successfully parsed question.
+2025-09-27 19:45:53,413 - INFO - Generated a valid MCQ question.
+2025-09-27 19:45:53,413 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:45:53,923 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:45:53,925 - INFO - Successfully parsed question.
+2025-09-27 19:45:53,925 - INFO - Generated a valid MCQ question.
+2025-09-27 19:45:53,925 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:45:54,314 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:45:54,316 - INFO - Successfully parsed question.
+2025-09-27 19:45:54,317 - INFO - Generated a valid MCQ question.
+2025-09-27 19:45:54,317 - INFO - Generating question for topic: , difficulty: medium, attempt: 1
+2025-09-27 19:45:54,769 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:45:54,771 - INFO - Successfully parsed question.
+2025-09-27 19:45:54,771 - INFO - Generated a valid MCQ question.
+2025-09-27 19:46:11,747 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:46:12,357 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:46:12,359 - INFO - Successfully parsed question.
+2025-09-27 19:46:12,359 - INFO - Generated a valid MCQ question.
+2025-09-27 19:46:12,359 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:46:12,829 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:46:12,832 - INFO - Successfully parsed question.
+2025-09-27 19:46:12,832 - INFO - Generated a valid MCQ question.
+2025-09-27 19:46:12,832 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:46:13,379 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:46:13,381 - INFO - Successfully parsed question.
+2025-09-27 19:46:13,382 - INFO - Generated a valid MCQ question.
+2025-09-27 19:46:13,382 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:46:14,024 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:46:14,026 - INFO - Successfully parsed question.
+2025-09-27 19:46:14,026 - INFO - Generated a valid MCQ question.
+2025-09-27 19:46:14,026 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:46:14,932 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:46:14,934 - INFO - Successfully parsed question.
+2025-09-27 19:46:14,934 - INFO - Generated a valid MCQ question.
+2025-09-27 19:48:26,764 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:48:27,370 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:48:27,372 - INFO - Successfully parsed question.
+2025-09-27 19:48:27,372 - INFO - Generated a valid MCQ question.
+2025-09-27 19:48:27,372 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:48:28,038 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:48:28,040 - INFO - Successfully parsed question.
+2025-09-27 19:48:28,041 - INFO - Generated a valid MCQ question.
+2025-09-27 19:48:28,041 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:48:28,552 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:48:28,554 - INFO - Successfully parsed question.
+2025-09-27 19:48:28,555 - INFO - Generated a valid MCQ question.
+2025-09-27 19:48:28,555 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:48:29,061 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:48:29,063 - INFO - Successfully parsed question.
+2025-09-27 19:48:29,063 - INFO - Generated a valid MCQ question.
+2025-09-27 19:48:29,063 - INFO - Generating question for topic: sex, difficulty: medium, attempt: 1
+2025-09-27 19:48:29,576 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:48:29,578 - INFO - Successfully parsed question.
+2025-09-27 19:48:29,578 - INFO - Generated a valid MCQ question.
+2025-09-27 19:50:11,899 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:50:12,592 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:50:12,594 - INFO - Successfully parsed question.
+2025-09-27 19:50:12,594 - INFO - Generated a valid MCQ question.
+2025-09-27 19:50:12,594 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:50:13,103 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:50:13,105 - INFO - Successfully parsed question.
+2025-09-27 19:50:13,105 - INFO - Generated a valid MCQ question.
+2025-09-27 19:50:13,105 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:50:13,614 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:50:13,616 - INFO - Successfully parsed question.
+2025-09-27 19:50:13,616 - INFO - Generated a valid MCQ question.
+2025-09-27 19:51:08,478 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:51:09,015 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:51:09,017 - INFO - Successfully parsed question.
+2025-09-27 19:51:09,017 - INFO - Generated a valid Fill-in-the-Blank question.
+2025-09-27 19:51:09,017 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:51:09,526 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:51:09,528 - INFO - Successfully parsed question.
+2025-09-27 19:51:09,529 - INFO - Generated a valid Fill-in-the-Blank question.
+2025-09-27 19:51:09,529 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:51:09,935 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:51:09,937 - INFO - Successfully parsed question.
+2025-09-27 19:51:09,937 - INFO - Generated a valid Fill-in-the-Blank question.
+2025-09-27 19:54:09,611 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:54:10,165 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:54:10,167 - INFO - Successfully parsed question.
+2025-09-27 19:54:10,167 - INFO - Generated a valid Fill-in-the-Blank question.
+2025-09-27 19:54:10,167 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:54:10,607 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:54:10,609 - INFO - Successfully parsed question.
+2025-09-27 19:54:10,609 - INFO - Generated a valid Fill-in-the-Blank question.
+2025-09-27 19:54:10,609 - INFO - Generating question for topic: stock, difficulty: medium, attempt: 1
+2025-09-27 19:54:11,118 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:54:11,120 - INFO - Successfully parsed question.
+2025-09-27 19:54:11,120 - INFO - Generated a valid Fill-in-the-Blank question.
+2025-09-27 19:55:20,260 - INFO - Generating question for topic: fuck, difficulty: medium, attempt: 1
+2025-09-27 19:55:20,855 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:55:20,857 - INFO - Successfully parsed question.
+2025-09-27 19:55:20,857 - INFO - Generated a valid MCQ question.
+2025-09-27 19:55:20,857 - INFO - Generating question for topic: fuck, difficulty: medium, attempt: 1
+2025-09-27 19:55:21,469 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:55:21,471 - INFO - Successfully parsed question.
+2025-09-27 19:55:21,471 - INFO - Generated a valid MCQ question.
+2025-09-27 19:57:08,227 - INFO - Generating question for topic: python, difficulty: medium, attempt: 1
+2025-09-27 19:57:08,827 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:57:08,829 - INFO - Successfully parsed question.
+2025-09-27 19:57:08,829 - INFO - Generated a valid MCQ question.
+2025-09-27 19:57:08,829 - INFO - Generating question for topic: python, difficulty: medium, attempt: 1
+2025-09-27 19:57:09,369 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:57:09,371 - INFO - Successfully parsed question.
+2025-09-27 19:57:09,372 - INFO - Generated a valid MCQ question.
+2025-09-27 19:57:54,401 - INFO - Generating question for topic python with difficulty medium
+2025-09-27 19:57:55,068 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:57:55,069 - INFO - Sucesfully parsed the question
+2025-09-27 19:57:55,069 - INFO - Generated a valid MCQ Question
+2025-09-27 19:57:55,070 - INFO - Generating question for topic python with difficulty medium
+2025-09-27 19:57:55,580 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:57:55,582 - INFO - Sucesfully parsed the question
+2025-09-27 19:57:55,582 - INFO - Generated a valid MCQ Question
+2025-09-27 19:59:43,907 - INFO - Generating question for topic python with difficulty medium
+2025-09-27 19:59:44,446 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 19:59:44,447 - INFO - Sucesfully parsed the question
+2025-09-27 19:59:44,447 - INFO - Generated a valid MCQ Question
+2025-09-27 20:01:05,021 - INFO - Generating question for topic  with difficulty medium
+2025-09-27 20:01:05,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-27 20:01:05,552 - INFO - Sucesfully parsed the question
+2025-09-27 20:01:05,553 - INFO - Generated a valid MCQ Question

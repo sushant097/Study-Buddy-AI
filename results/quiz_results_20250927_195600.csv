@@ -1,0 +1,3 @@
+question_number,question,question_type,user_answer,correct_answer,is_correct,options
+1,What is the typical grammatical function of the word 'fuck' when used as an adjective?,MCQ,To describe a location,To intensify a particular quality or feeling,False,"['To describe a location', 'To express strong dislike', 'To intensify a particular quality or feeling', 'To describe a time']"
+2,What is the definition of the adjective 'fuck'?,MCQ,A type of romantic relationship,Slang term for copulation or sexual intercourse,False,"['A type of romantic relationship', 'A strong, intense feeling of affection', 'Extremely annoying or frustrating; of poor quality; of little importance', 'Slang term for copulation or sexual intercourse']"
